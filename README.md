@@ -55,8 +55,8 @@ El documento final tiene los siguientes apartados:
 
 ## 📋 Estructura del Proyecto
 
-- **Carpeta_Archivos:** Contiene los dos archivos proporcionados: "bank-additional.csv" y "customer-details.xlsx"
-- **Carpeta_Notebook:** Contiene el archivo "Proyecto_4_Banking_Marketing_Campaign", el cual contiene todos los pasos y el código para realizar la exploración de los datos cumpliendo los 4 requisitos presentados.
+- **Carpeta_Archivos:** Contiene los 3 archivos proporcionados: "bank-additional.csv", "customer-details.xlsx" y "DataProject_ Proyecto EDA con Python.docx".
+- **proyecto_eda_banking.ipynb:** El archivo que contiene todos los pasos y el código para realizar la exploración de los datos cumpliendo los 4 requisitos presentados.
 - **README.md:** Contiene la descripción del proyecto.
 
 ## 🛠 Instalación y Requisitos
